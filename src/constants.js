@@ -9,7 +9,7 @@ export const dialogueData = {
     tv: `That's my TV. I have been watching tech youtubers and tech channels. Watching tech youtubers might be very inspiring and motivating because they share their experiences and knowledge about technology, which can help you learn and grow in the field.
     Tech channels often provide such a good tutorials which helped me to develop my skills and also develop some of my projects.`,
     bed: `This where I sleep. We have to agree that nothing beats a good sleep after a long day of work and study.`,
-    resume: `This is my desk and on it is my resume, <a href="Resume_DiogoRua.pdf" target="_blank">check it out.</a>.
+    resume: `This is my desk and on it is my resume, <a href="Resume_DiogoRua.pdf" target="_blank">check it out</a>.
     Contact me at diogorua316@gmail.com if you have any interesting job opportunities!`,
     projects: `Info about this portfolio: It's made with the Kaboom.js library which is a library for making games in JavaScript.
     Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. 
