@@ -16,4 +16,4 @@ You have to install ```Node.js``` and ```npm``` on your machine to run the proje
 
 ```npm run build```
 
-After this, a dist folder should be created. Basically a Dist Folder is an optimized version of the application that we have built.
+Once the build is complete, you’ll see a dist folder. It holds the optimized version of your app, ready to be deployed.
