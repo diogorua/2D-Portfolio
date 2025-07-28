@@ -20,7 +20,7 @@ Once the build is complete, you’ll see a dist folder. It holds the optimized v
 
 # How to deploy 
 
-Watch this video to understand how to deploy a vite app to GitHub Pages: [](https://www.youtube.com/watch?v=hn1IkJk24ow). 
+Watch this video to understand how to deploy a vite app to GitHub Pages: [https://www.youtube.com/watch?v=hn1IkJk24ow](https://www.youtube.com/watch?v=hn1IkJk24ow)
 
 # Details
 
