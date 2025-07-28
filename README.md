@@ -4,7 +4,7 @@
 
 This project was made with the help of FreeCodeCamp. Check the full tutorial [here](https://www.youtube.com/watch?v=wy_fSStEgMs&t=5309s) if you want. 
 
-#How to run
+# How to run
 
 You have to install ```Node.js``` and ```npm``` on your machine to run the project
 
@@ -12,7 +12,7 @@ You have to install ```Node.js``` and ```npm``` on your machine to run the proje
 
 ```npm run dev```
 
-#How to build the project
+# How to build the project
 
 ```npm run build```
 
