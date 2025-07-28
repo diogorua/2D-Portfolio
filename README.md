@@ -12,8 +12,18 @@ You have to install ```Node.js``` and ```npm``` on your machine to run the proje
 
 ```npm run dev```
 
-# How to build the project
+# How to build
 
 ```npm run build```
 
 Once the build is complete, you’ll see a dist folder. It holds the optimized version of your app, ready to be deployed.
+
+# How to deploy 
+
+Watch this video to understand how to deploy a vite app to GitHub Pages: [](https://www.youtube.com/watch?v=hn1IkJk24ow). 
+
+# Details
+
+This project it's made with the kaboom.js library which is a library for making games in JavaScript. 
+
+We use vite to build this 2D-Portfolio. Vite is a fast, next-generation front-end build tool and development server.
